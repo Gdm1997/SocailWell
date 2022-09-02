@@ -6,7 +6,7 @@ const PostTags = () => {
       <ul>
         {[1, 2, 3, 4, 5, 6].map((_, index) => (
           <li>
-            <a href="#">Lorem</a>
+            <a href="/">Lorem</a>
           </li>
         ))}
       </ul>

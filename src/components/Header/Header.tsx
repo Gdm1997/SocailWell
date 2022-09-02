@@ -5,22 +5,22 @@ const Header = () => {
     <nav id="nav-header">
       <ul className="social-links">
         <li>
-          <a href="#">
+          <a href="/">
             <img src={Github} className="social-icon" alt="github" />
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="/">
             <img src={LinkedIn} className="social-icon" alt="github" />
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="/">
             <img src={Mail} className="social-icon" alt="github" />
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="/">
             <img src={Twitter} className="social-icon" alt="github" />
           </a>
         </li>

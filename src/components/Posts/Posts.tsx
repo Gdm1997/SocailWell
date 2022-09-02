@@ -6,7 +6,7 @@ const Posts: React.FC<{ title: string }> = ({ title }) => {
       <ul>
         {[1, 2, 3, 4].map((_, index) => (
           <li>
-            <a href="#">
+            <a href="/">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
               autem magnam rerum? Dolorem, quas possimus!
             </a>

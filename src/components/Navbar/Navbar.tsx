@@ -32,7 +32,7 @@ const Navbar = () => {
       <ul className="links">
         {links.map(({ link, isActive }, index) => (
           <li>
-            <a href="#" className={isActive ? "active" : ""}>
+            <a href="/" className={isActive ? "active" : ""}>
               {link}
             </a>
           </li>

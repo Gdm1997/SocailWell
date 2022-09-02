@@ -11,22 +11,22 @@ const Footer = () => {
           </p>
           <ul className="social-links">
             <li>
-              <a href="#">
+              <a href="/">
                 <img src={FGithub} alt="github" />
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="/">
                 <img src={FLinkedin} alt="linkedin" />
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="/">
                 <img src={FMail} alt="mail" />
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="/">
                 <img src={FTwitter} alt="twitter" />
               </a>
             </li>
